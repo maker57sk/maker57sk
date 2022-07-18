@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@maker57sk">
-    <img src="https://img.shields.io/badge/Medium-green?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 <div id="pageviews" align="center">
