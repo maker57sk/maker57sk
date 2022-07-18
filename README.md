@@ -7,13 +7,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://medium.com/@maker57sk">
-    <img src="https://img.shields.io/badge/Medium-grey?logo=medium&logoColor=white" alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/Medium-grey?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
-  
 </div>
-
-
+<div id="pageviews" align="center">
+<img src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 <!--
