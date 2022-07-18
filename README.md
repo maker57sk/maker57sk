@@ -14,7 +14,7 @@
 <img src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maker57sk&theme=dark&background=ffffff)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=maker57sk&theme=light&background=ffffff)](https://git.io/streak-stats)
 <!--
 **maker57sk/maker57sk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
