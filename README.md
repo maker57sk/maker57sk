@@ -9,10 +9,11 @@
   <a href="https://medium.com/@maker57sk">
     <img src="https://img.shields.io/badge/Medium-grey?logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
+<img src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
+  
 </div>
 
 
-<img  align="center" src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
 
 
 <!--
