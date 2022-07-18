@@ -12,7 +12,7 @@
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
+<img  align="center" src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
 
 
 <!--
