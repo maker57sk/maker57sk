@@ -6,11 +6,8 @@
   <a href="https://www.linkedin.com/in/salman57sk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://medium.com/@maker57sk">
     <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
