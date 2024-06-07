@@ -6,9 +6,9 @@
   <a href="https://www.linkedin.com/in/salman57sk/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://medium.com/@maker57sk">
+<!--   <a href="https://medium.com/@maker57sk">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a>
+  </a> -->
 </div>
 <div id="pageviews" align="center">
 <img src="https://komarev.com/ghpvc/?username=maker57sk&style=flat-square&color=blue" alt=""/>
